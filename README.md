@@ -43,4 +43,4 @@
 
 ## 出处与使用
 
-本 skill 的方法部分欢迎引用与借鉴，引用请注明出处。上游项目 digital-human-koubo 的版权归其作者所有，本仓库不主张对其代码与创意的权利。
+本 skill 的方法部分欢迎引用与借鉴，引用请注明出处。本仓库文档以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可证发布（见 `LICENSE` 文件）。上游项目 digital-human-koubo 的版权归其作者所有，本仓库不主张对其代码与创意的权利。
